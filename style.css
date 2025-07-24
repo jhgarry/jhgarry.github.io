@@ -4,19 +4,23 @@ html, body {
 }
 
 .TopBlock {
+  overflow: hidden;
   background-color: #404040;
 }
 
 .TopBlock a{
   float: left;
+  background-color: #404040;
   color: #ffffff;
   text-align: center;
-  padding: 12px 15px;
-  font-size: 15px;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-size: 18px;
 }
 
 .TopBlock a:hover{
-  background-color: #d0f906;
+  background-color: #f5ed00;
+  color: #404040;
 }
 
 .TopBlock a.CurrentActive{

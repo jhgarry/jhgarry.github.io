@@ -1,16 +1,17 @@
-html, body {
+body {
   margin: 0;
   padding: 0;
+  background-color: #000000;
 }
 
 .TopBlock {
   overflow: hidden;
-  background-color: #404040;
+  background-color: #000000;
 }
 
 .TopBlock a{
   float: left;
-  background-color: #404040;
+  background-color: #000000;
   color: #ffffff;
   text-align: center;
   text-decoration: none;
